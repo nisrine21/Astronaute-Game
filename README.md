@@ -1,13 +1,13 @@
-# PyG_KAN Game
+# Astronaute-Game
 
 ## Description
-PyG_KAN is a simple space-themed game developed using Python and the Pygame library. The game involves controlling an astronaut character to avoid falling comets while exploring space and learning interesting facts about planets and celestial bodies in the solar system.
+Astronaute-Game is a simple space-themed game developed using Python and the Pygame library. The game involves controlling an astronaut character to avoid falling comets while exploring space and learning interesting facts about planets and celestial bodies in the solar system.
 
 ## Installation
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your_username/PyG_KAN.git
-    cd PyG_KAN
+    https://github.com/nisrine21/Astronaute-Game.git
+    Astronaute-Game
     ```
 
 2. **Install Dependencies:**
