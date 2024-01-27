@@ -7,7 +7,7 @@ Astronaute-Game is a simple space-themed game developed using Python and the Pyg
 1. **Clone the Repository:**
     ```bash
     https://github.com/nisrine21/Astronaute-Game.git
-    Astronaute-Game
+    cd Astronaute-Game
     ```
 
 2. **Install Dependencies:**
