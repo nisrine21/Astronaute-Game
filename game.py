@@ -19,8 +19,8 @@ class Game:
        
         self.pressed = {}
 
-    def question(self):
-        Question_list = [
+    def Planets_and_Celestial_Bodies_Info(self):
+        info_list = [
                         ["The closest planet  to the Earth is  'Venus' ","planets/8.png"],
                         ["The closest planet  to the Sun is  'Mercury'","planets/7.png"],
                         ["The period of a rotation of the Earth on  itself is '1day'","planets/1.png"],
@@ -37,7 +37,7 @@ class Game:
                         ["The planet witch was included in the solar system in 2006 is 'Pluto'","planets/2.png"],        
                         ]
         # random item from list
-        qst = random.choice(Question_list)
+        qst = random.choice(info_list)
         
         return qst
 
