@@ -65,7 +65,7 @@ while running  :
         game.update(screen)
     else:
         if game.is_pause:
-            x=game.question()
+            x=game.Planets_and_Celestial_Bodies_Info()
             
             text = myfont2.render("{}".format(x[0]), 1, (255,255,255))
             img = pygame.image.load(x[1])
