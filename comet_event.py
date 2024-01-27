@@ -5,14 +5,14 @@ from comet import Comet
 class CometFallEvent:
     def __init__(self, game):
         self.percent = 0
-        self.percent_speed = 1200
+        self.percent_speed =500
         self.game = game
 
         # stockage des comets
         self.all_comets = pygame.sprite.Group()
 
     def add_percent(self):
-        self.percent += self.percent_speed/100
+        self.percent += self.percent_speed/120
 
     def is_full_loading(self):
         return self.percent >= 100
